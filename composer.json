@@ -1,0 +1,20 @@
+{
+    "name": "webstylecenter/oc-backend-plus",
+    "type": "october-plugin",
+    "description": "Backend toolkit plugin",
+    "homepage": "https://octobercms.com/plugin/indikator-backend",
+    "keywords": ["october", "octobercms", "toolkit"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "INDIKATOR",
+            "email": "info@indikator.hu",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0"
+    },
+    "minimum-stability": "dev"
+}
